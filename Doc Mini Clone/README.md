@@ -1,3 +1,15 @@
+# Docs Mini App
+
+Docs Mini App is a sleek and efficient document management application built with React and Framer Motion. It provides users with an intuitive interface to organize and manage their documents effortlessly.
+
+![Docs Mini App Demo](demo.gif)
+
+## Features
+
+- **Drag-and-Drop Functionality:** Utilize Framer Motion's drag functionality to seamlessly arrange your documents.
+- **Interactive Card Interface:** Each card displays file details and offers options for download or closure.
+- **Customizable Tags:** Easily identify download or upload availability with customizable tag colors.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
